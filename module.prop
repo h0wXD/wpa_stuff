@@ -1,7 +1,7 @@
-id=MMT-Ex
-name=Magisk Module Template Extended
+id=wpa-stuff
+name=WPA Stuff
 version=v1.6
 versionCode=7
-author=Zackptg5
+author=h0wxd
 description=
-support=https://forum.xda-developers.com/apps/magisk/MMT-Extended
+support=https://github.com/h0wXD/wpa_stuff
